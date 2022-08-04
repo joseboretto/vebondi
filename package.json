@@ -22,7 +22,7 @@
     "cors": "^2.8.4",
     "hashmap": "^2.3.0",
     "json-loader": "^0.5.7",
-    "mongoose": "^5.0.10",
+    "mongoose": "^5.7.5",
     "node-cron": "^1.2.1",
     "nodemon": "^1.13.3",
     "serve": "^7.1.3",
